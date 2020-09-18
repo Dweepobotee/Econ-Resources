@@ -109,10 +109,10 @@ a) Letters: Word limit: 500–800
 [URL: https://www.epw.in/notes-contributors.html]
 
 ## 22 JAMA
-### a Brief Report: 1200 words
+### a) Brief Report: 1200 words
 "Short reports of original studies or evaluations or unique, first-time reports of clinical case series."
 
-### b Research Note: 600 words
+### b) Research Note: 600 words
 "Concise, focused reports of original research. Can include any of the study types listed under Original Investigation."
 
 [URL: https://jamanetwork.com/journals/jama/pages/instructions-for-authors]
