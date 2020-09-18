@@ -1,6 +1,6 @@
 # Journals in Economics that take short papers
 
-Extending the original blog by David Evans [ url: https://blogs.worldbank.org/impactevaluations/10-journals-publishing-short-economics-paper ] here is a list of journals that take short papers in Economics.
+Extending the original blog by David Evans [ url: https://blogs.worldbank.org/impactevaluations/10-journals-publishing-short-economics-paper ], here is a list of journals that take short papers in Economics.
 
 
 
