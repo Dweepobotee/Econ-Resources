@@ -12,7 +12,8 @@ Extending the original blog by David Evans [ url: https://blogs.worldbank.org/im
 “Short Papers will be strictly held to a size limitation of 6000 words and 5 exhibits. For each exhibit before the maximum five, the authors may add up to 200 words toward the word limit; thus a paper with no exhibits must have <=7,000 words. Online appendix materials are allowed of modest length, no more than 20 pages, but the papers should be self-contained.”
 [URL: https://www.mitpressjournals.org/journals/rest/sub ]
 
-## 3 The Economic Journal, 6000 words, 5 exhibits
+## 3 The Economic Journal
+6000 words, 5 exhibits
 “In addition to our  regular submissions, the Journal also encourages the submission of short papers, along the lines of the AER:Insights style (<6,000 words, 5 exhibits). Submissions in this category should clearly state that they are intended as short, self-contained papers, and should be written accordingly.”
 [URL: https://academic.oup.com/ej/pages/General_Instructions]
 
@@ -48,7 +49,8 @@ Manuscripts must be “seven printed pages or less excluding tables, figures, ap
 “Short Communications are typically 2 to 5 printed pages (about 6 to 12 manuscript pages) in length. They should be divided into numbered sections (1., 2., 3…) and subsections (1.1.1, 1.1.2,...), but need not include a detailed background section or literature review. Short Communications should not include more than 3 tables/figures.”
 [URL: https://www.journals.elsevier.com/economics-of-education-review/ ]
 
-## 11 Atlantic Economic Journal , 500 words, ,Anthology
+## 11 Atlantic Economic Journal 
+ 500 words,Anthology
 “Total length of the double-spaced Word document must not exceed 800 words.”
 [URL: http://www.iaes.org/aej-anthology-style-instructions/]
 
