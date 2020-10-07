@@ -50,11 +50,12 @@ Manuscripts must be “seven printed pages or less excluding tables, figures, ap
 [URL: https://www.journals.elsevier.com/economics-of-education-review/ ]
 
 ## 11 Atlantic Economic Journal 
- 500 words,Anthology
+ Anthology
 “Total length of the double-spaced Word document must not exceed 800 words.”
 [URL: http://www.iaes.org/aej-anthology-style-instructions/]
 
-## 12 International Advances in Economic Research, Research Note
+## 12 International Advances in Economic Research
+Research Note
 “Total length of text must be between 700 and 800 words.”
 [URL: http://www.iaes.org/iaer-research-note-style-instructions/]
 
