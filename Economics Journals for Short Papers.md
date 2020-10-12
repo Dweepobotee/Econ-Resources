@@ -120,7 +120,17 @@ a) Letters: Word limit: 500–800
 
 [URL: https://jamanetwork.com/journals/jama/pages/instructions-for-authors]
 
+## Bulletin of the World Health Organization
+### a) Policy and Practice: 
+"Analytical assessments, critical policy analysis, debates or hypothesis-generating papers on public health topics; not more than 3000 words and 50 references, plus a non-structured abstract"
 
+### b) Lessons from the field
+" Papers that capture experiences and practice gained in solving specific public health problems in low- and middleincome countries. Convincing evidence of effect should be provided. Not more than 1500 words and 15 references, plus a structured abstract "
+
+### c) Perspectives
+" Views, hypotheses or discussions (with a clear message) surrounding an issue of public health interest; No abstract, up to 1500 words, no more than 12 references;"
+
+[URL: https://www.who.int/bulletin/contributors/current_guidelines.pdf?ua=1 ]
 
 
 
