@@ -127,7 +127,7 @@ a) Letters: Word limit: 500–800
 ### b) Lessons from the field: 1500 words
 " Papers that capture experiences and practice gained in solving specific public health problems in low- and middleincome countries. Convincing evidence of effect should be provided. Not more than 1500 words and 15 references, plus a structured abstract "
 
-### c) Perspectives:
+### c) Perspectives: 1500 words
 " Views, hypotheses or discussions (with a clear message) surrounding an issue of public health interest; No abstract, up to 1500 words, no more than 12 references;"
 
 [URL: https://www.who.int/bulletin/contributors/current_guidelines.pdf?ua=1 ]
