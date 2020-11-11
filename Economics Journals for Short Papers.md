@@ -132,5 +132,8 @@ a) Letters: Word limit: 500–800
 
 [URL: https://www.who.int/bulletin/contributors/current_guidelines.pdf?ua=1 ]
 
-
+## 24 Journal of Agricultural Economics
+Notes and Comments
+"Shorter papers and comments, of up to 1,500 words, will also be considered for publication. Such notes might appropriately deal with the economic aspects of current questions of agricultural policy, with the results of small research projects not justifying a full-length article, or comment on articles previously published."
+[URL: https://onlinelibrary.wiley.com/page/journal/14779552/homepage/forauthors.html]
 
