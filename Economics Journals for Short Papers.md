@@ -69,22 +69,19 @@ Professional Practice
 “The editor seeks short articles of no more than 2000 words that present novel policy ideas, challenge common wisdom, report surprising research findings, draw lessons from experience, or illustrate the application of an analytical or managerial method.”
 [URL: https://onlinelibrary.wiley.com/page/journal/15206688/homepage/forauthors.html ]
 
-## 15	Journal of Quantitative Economics
 
-## 16	Journal of International Development
+## 15	Journal of International Development
 Short Notes/ Field Reports
 “Short Notes or 'Field Reports', which summarize a finding in not more than1,000 words, are particularly welcome.”
 [URL: https://onlinelibrary.wiley.com/page/journal/10991328/homepage/forauthors.html ]
 
-## 17	Lancet
-## 18	Lancet Global Health
-## 19	PLOS One
-## 20	Science
+
+## 16	Science
 Reports
 “(up to ~2500 words including references, notes and captions–corresponds to ~3 printed pages in the journal) present important new research results of broad significance.” 
 [URL: https://www.sciencemag.org/authors/science-information-authors ]
 
-## 21	Economic and Political Weekly
+## 17	Economic and Political Weekly
 a) Letters: Word limit: 500–800 
 “Readers are encouraged to comment on current affairs and/or respond to published articles in EPW."
 
@@ -111,7 +108,7 @@ a) Letters: Word limit: 500–800
 
 [URL: https://www.epw.in/notes-contributors.html]
 
-## 22 JAMA
+## 18 JAMA
 ### a) Brief Report: 1200 words
 "Short reports of original studies or evaluations or unique, first-time reports of clinical case series."
 
@@ -120,7 +117,7 @@ a) Letters: Word limit: 500–800
 
 [URL: https://jamanetwork.com/journals/jama/pages/instructions-for-authors]
 
-## 23 Bulletin of the World Health Organization
+## 19 Bulletin of the World Health Organization
 ### a) Policy and Practice: 3000 words
 "Analytical assessments, critical policy analysis, debates or hypothesis-generating papers on public health topics; not more than 3000 words and 50 references, plus a non-structured abstract"
 
@@ -132,8 +129,17 @@ a) Letters: Word limit: 500–800
 
 [URL: https://www.who.int/bulletin/contributors/current_guidelines.pdf?ua=1 ]
 
-## 24 Journal of Agricultural Economics
+## 20 Journal of Agricultural Economics
 Notes and Comments
 "Shorter papers and comments, of up to 1,500 words, will also be considered for publication. Such notes might appropriately deal with the economic aspects of current questions of agricultural policy, with the results of small research projects not justifying a full-length article, or comment on articles previously published."
 [URL: https://onlinelibrary.wiley.com/page/journal/14779552/homepage/forauthors.html]
+
+## 21 Journal of Development Economics
+Short Papers
+"The JDE offers the authors a short-paper limited revision track. Submission guidelines follow AER: Insights. Manuscripts should be at most 6,000 words, with at most 5 exhibits (tables or figures)."
+[URL: https://www.elsevier.com/journals/journal-of-development-economics/0304-3878/guide-for-authors ]
+
+## 22 Social Science and Medicine
+"Peer-reviewed short communications of findings on topical issues or published articles of between 2000 and 4000 words."
+[URL: https://www.journals.elsevier.com/social-science-and-medicine ]
 
